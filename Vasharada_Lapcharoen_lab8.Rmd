@@ -1,5 +1,5 @@
 ---
-title: "test"
+title: "Vasharada_Lapcharoen_lab8"
 author: "Vasharada Lapcharoen"
 date: "April 5, 2017"
 output: html_document
